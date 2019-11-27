@@ -1,0 +1,89 @@
+.header
+{
+	width: 100%;
+	padding: 11px;
+	background-color: black;
+}
+.headerimg
+{
+	width: 100%;
+	height: 777px;
+	background-image: url(../images/header.jpg);
+	background-size: cover;
+	margin-top: 25px;
+}
+.about
+{
+	width: 100%;
+	padding: 70px;
+	background-color: white;
+	color: green;
+}
+.greybox
+{
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 120px;
+	background-color: black;
+	padding: 200px;
+}
+.yellow
+{
+	width: 100%;
+	padding-top: 110px;
+	background-color: #f1a555;
+}
+.box
+{
+	width: 100%;
+	padding: 40px;
+	background-color: white;
+}
+.video
+{
+	width: 100%;
+	padding-top:60px;
+	padding-bottom:120px;
+	background-color: white;
+}
+.footer
+{
+	width: 100%;
+	height: 380px;
+	background:url(../images/trans.jpg);
+	background: linear-gradient(rgba(255, 0, 0, 0.45));
+	background-repeat: no-repeat;
+	opacity: 0.7;
+}
+.last
+{
+	width: 100%;
+	padding: 0px;
+	background-color: #091f4c;
+}
+.foot
+{
+	width: 100%;
+	padding: 100px;
+	background-color: #0a2d48;
+}
+.bgimage
+{
+	width: 100%;
+	height: 400px;
+	background-image: url(../images/skyline.png);
+	background-size: cover;
+}
+.try
+{
+	width: 100%;
+	padding: 333px;
+	background-image: url(../images/building.jpg);
+	background-size: cover;
+}
+.border
+{
+	width: 333px;
+	height: 111px;
+	margin: 6px;
+}
